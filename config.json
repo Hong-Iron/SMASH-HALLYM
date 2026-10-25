@@ -20,5 +20,64 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "일송기념도서관": {
+      "style": "glass",
+      "wall": "#d9d4ca",
+      "glass": "#6f909e",
+      "frame": "#e6e3dc"
+    },
+    "공학관": {
+      "style": "ribbon",
+      "wall": "#e8ebee",
+      "glass": "#5f7d95",
+      "frame": "#b0645e"
+    },
+    "한림스포츠센터": {
+      "style": "concrete",
+      "wall": "#a0a7ad",
+      "glass": "#1e5e72",
+      "frame": "#91847b"
+    },
+    "Campus Life Center (구 학생복지관)": {
+      "style": "ribbon",
+      "wall": "#c5cecf",
+      "glass": "#6a848f",
+      "frame": "#98a099"
+    },
+    "일송아트홀": {
+      "style": "stone",
+      "wall": "#dadadb",
+      "glass": "#525f57",
+      "frame": "#ccced0"
+    },
+    "대학본부-인문1관": {
+      "style": "brick",
+      "wall": "#9a6f68",
+      "glass": "#6f727f",
+      "frame": "#d8d4cc"
+    },
+    "사회경영1관": {
+      "style": "brick",
+      "wall": "#b09a92",
+      "glass": "#4a5058",
+      "frame": "#e2ddd6",
+      "hip": true,
+      "roof": "#4f5540"
+    },
+    "의학관": {
+      "style": "brick",
+      "wall": "#8a5962",
+      "glass": "#4a5158",
+      "frame": "#8c8c8c"
+    },
+    "산학협력관": {
+      "style": "glass",
+      "wall": "#b6bdc5",
+      "glass": "#7f97a3",
+      "frame": "#c8ccd0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
